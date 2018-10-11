@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="49545" started-at="2018-08-26T17:00:25Z" finished-at="2018-08-26T17:01:14Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="33140" started-at="2018-08-26T17:00:25Z" finished-at="2018-08-26T17:00:58Z">
+      <class name="DavidAcademy.HomePage">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:DavidAcademy.HomePage@1afd44cb]" name="initialize" is-config="true" duration-ms="3511" started-at="2018-08-26T17:00:25Z" finished-at="2018-08-26T17:00:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="BasePageNavigation(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DavidAcademy.HomePage@1afd44cb]" name="BasePageNavigation" duration-ms="21681" started-at="2018-08-26T17:00:28Z" data-provider="getData" finished-at="2018-08-26T17:00:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Restricteduser@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123456]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Restricted User]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BasePageNavigation -->
+        <test-method status="PASS" signature="BasePageNavigation(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DavidAcademy.HomePage@1afd44cb]" name="BasePageNavigation" duration-ms="7702" started-at="2018-08-26T17:00:50Z" data-provider="getData" finished-at="2018-08-26T17:00:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Nonrestricteduser@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123456]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Non Restricted User]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BasePageNavigation -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:DavidAcademy.HomePage@1afd44cb]" name="closeBrowser" is-config="true" duration-ms="228" started-at="2018-08-26T17:00:57Z" finished-at="2018-08-26T17:00:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- DavidAcademy.HomePage -->
+    </test> <!-- Test -->
+    <test name="Test2" duration-ms="16329" started-at="2018-08-26T17:00:58Z" finished-at="2018-08-26T17:01:14Z">
+      <class name="DavidAcademy.ValidatePage">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:DavidAcademy.ValidatePage@74e52303]" name="initialize" is-config="true" duration-ms="10969" started-at="2018-08-26T17:00:58Z" finished-at="2018-08-26T17:01:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="BasePageNavigation()[pri:0, instance:DavidAcademy.ValidatePage@74e52303]" name="BasePageNavigation" duration-ms="3220" started-at="2018-08-26T17:01:09Z" finished-at="2018-08-26T17:01:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BasePageNavigation -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:DavidAcademy.ValidatePage@74e52303]" name="closeBrowser" is-config="true" duration-ms="2138" started-at="2018-08-26T17:01:12Z" finished-at="2018-08-26T17:01:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- DavidAcademy.ValidatePage -->
+    </test> <!-- Test2 -->
+  </suite> <!-- Suite -->
+</testng-results>

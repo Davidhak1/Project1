@@ -1,0 +1,62 @@
+09:01:55.421 [main] INFO  resources.Base - Restricted User
+09:02:03.336 [main] INFO  resources.Base - Non Restricted User
+09:02:07.992 [main] INFO  resources.Base - Driver is initialized
+09:02:09.240 [main] INFO  resources.Base - Browser window is maximized
+09:02:17.494 [main] INFO  resources.Base - Navigated to home page
+09:02:17.676 [main] INFO  resources.Base - Successfully validated text message
+09:53:15.162 [main] INFO  resources.Base - Restricted User
+09:53:23.888 [main] INFO  resources.Base - Non Restricted User
+09:53:28.427 [main] INFO  resources.Base - Driver is initialized
+09:53:29.647 [main] INFO  resources.Base - Browser window is maximized
+09:53:38.532 [main] INFO  resources.Base - Navigated to home page
+08/05 10:02:14.150 [main] INFO  resources.Base - Restricted User
+08/05 10:02:14.156 [main] ERROR resources.Base - I may take a screensot
+08/05 10:02:39.154 [main] INFO  resources.Base - Non Restricted User
+08/05 10:02:39.154 [main] ERROR resources.Base - I may take a screensot
+08/05 10:02:41.726 [main] INFO  resources.Base - Driver is initialized
+08/05 10:02:42.947 [main] INFO  resources.Base - Browser window is maximized
+08/05 10:02:51.018 [main] INFO  resources.Base - Navigated to home page
+08/05 10:05:05.625 [main] INFO  resources.Base - Restricted User
+08/05 10:05:05.640 [main] ERROR resources.Base - I may take a screensot
+08/05 10:05:18.319 [main] INFO  resources.Base - Non Restricted User
+08/05 10:05:18.319 [main] ERROR resources.Base - I may take a screensot
+08/05 10:05:23.020 [main] INFO  resources.Base - Driver is initialized
+08/05 10:05:24.227 [main] INFO  resources.Base - Browser window is maximized
+08/05 10:05:45.376 [main] INFO  resources.Base - Navigated to home page
+08/05 10:07:14.809 [main] INFO  resources.Base - Restricted User
+08/05 10:07:14.830 [main] ERROR resources.Base - I may take a screensot
+08/05 10:07:26.617 [main] INFO  resources.Base - Non Restricted User
+08/05 10:07:26.618 [main] ERROR resources.Base - I may take a screensot
+08/05 10:07:31.418 [main] INFO  resources.Base - Driver is initialized
+08/05 10:07:32.646 [main] INFO  resources.Base - Browser window is maximized
+08/05 10:07:51.413 [main] INFO  resources.Base - Navigated to home page
+08/05 10:16:48.659 [main] INFO  resources.Base - Restricted User
+08/05 10:16:55.606 [main] INFO  resources.Base - Non Restricted User
+08/05 10:16:58.631 [main] INFO  resources.Base - Driver is initialized
+08/05 10:16:59.863 [main] INFO  resources.Base - Browser window is maximized
+08/05 10:17:07.604 [main] INFO  resources.Base - Navigated to home page
+08/05 10:17:09.784 [main] INFO  resources.Base - Page refreshed
+08/05 11:58:08.396 [main] INFO  resources.Base - Driver is initialized
+08/05 11:58:09.538 [main] INFO  resources.Base - Browser window is maximized
+08/05 11:58:16.533 [main] INFO  resources.Base - Navigated to home page
+08/05 11:58:19.421 [main] INFO  resources.Base - Page refreshed
+08/05 13:21:12.346 [main] INFO  resources.Base - Restricted User
+08/05 13:21:19.855 [main] INFO  resources.Base - Non Restricted User
+08/05 13:21:22.729 [main] INFO  resources.Base - Driver is initialized
+08/05 13:21:23.910 [main] INFO  resources.Base - Browser window is maximized
+08/05 13:21:32.472 [main] INFO  resources.Base - Navigated to home page
+08/05 13:21:35.567 [main] INFO  resources.Base - Page refreshed
+08/05 13:25:42.744 [main] INFO  resources.Base - Restricted User
+08/05 13:25:49.296 [main] INFO  resources.Base - Non Restricted User
+08/05 13:25:52.006 [main] INFO  resources.Base - Driver is initialized
+08/05 13:25:53.208 [main] INFO  resources.Base - Browser window is maximized
+08/05 13:25:59.408 [main] INFO  resources.Base - Navigated to home page
+08/05 13:26:01.877 [main] INFO  resources.Base - Page refreshed
+08/05 13:26:02.012 [main] INFO  resources.Base - Successfully validated text message
+08/26 12:00:50.242 [main] INFO  resources.Base - Restricted User
+08/26 12:00:57.960 [main] INFO  resources.Base - Non Restricted User
+08/26 12:01:00.639 [main] INFO  resources.Base - Driver is initialized
+08/26 12:01:01.830 [main] INFO  resources.Base - Browser window is maximized
+08/26 12:01:09.236 [main] INFO  resources.Base - Navigated to home page
+08/26 12:01:12.303 [main] INFO  resources.Base - Page refreshed
+08/26 12:01:12.457 [main] INFO  resources.Base - Successfully validated text message

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="DavidAcademy.Listeners"/>
+    <listener class-name="resources.ExtentReporterNG"/>
+  </listeners>
+  <test thread-count="5" verbose="0" name="Test(failed)">
+    <classes>
+      <class name="DavidAcademy.HomePage">
+        <methods>
+          <include name="initialize"/>
+          <include name="closeBrowser"/>
+          <include name="BasePageNavigation" invocation-numbers="0 1"/>
+        </methods>
+      </class> <!-- DavidAcademy.HomePage -->
+    </classes>
+  </test> <!-- Test(failed) -->
+  <test thread-count="5" verbose="0" name="Test2(failed)">
+    <classes>
+      <class name="DavidAcademy.ValidatePage">
+        <methods>
+          <include name="BasePageNavigation"/>
+          <include name="initialize"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- DavidAcademy.ValidatePage -->
+    </classes>
+  </test> <!-- Test2(failed) -->
+</suite> <!-- Failed suite [Suite] -->
